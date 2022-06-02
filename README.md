@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Eduardo Felipe Lopes</h1>
-<h3 align="center">Cientista de dado</h3>
+<h3 align="center">Cientista de dados</h3>
 
-- 🌱 Atualmente estou aprendendo mais sobre **Python e Machine Learning**
+- 🌱 Atualmente estou aprendendo mais sobre **Machine Learning**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Eduu1/Portfolio-Data-Science](https://github.com/Eduu1/Portfolio-Data-Science)
 

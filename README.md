@@ -3,6 +3,8 @@
 
 - 🌱 Atualmente estou aprendendo mais sobre **Machine Learning**
 
+- 📫 Você me acha através do email **eduardopnm@gmail.com**
+
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Eduu1/Portfolio-Data-Science](https://github.com/Eduu1/Portfolio-Data-Science)
 
 <h3 align="left">Connect with me:</h3>

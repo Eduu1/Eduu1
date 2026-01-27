@@ -1,30 +1,28 @@
-## 👋 Olá, eu sou o Eduardo Lopes
+## Hi, I’m Eduardo Lopes
 
-🎓 Graduado em Estatística pela UFMT  
-💼 Analista de Dados Jr  
-📍 Cuiabá - MT  
-
-Graduado em Estatística pela UFMT, com experiência em SQL Server, Power BI e programação aplicada a dados. Atualmente em aprendizado contínuo em Machine Learning e MLOps, com foco em evolução para engenharia e operacionalização de modelos.
+🎓 **Statistics Graduate** – UFMT  
+💼 Junior Data Analyst | Enthusiast in **Machine Learning & MLOps**  
 
 
----
-
-### 🛠️ Tecnologias & Ferramentas
-- 📊 SQL Server / SQL
-- 📈 Power BI
-- 🐍 Python
-- 📐 R
-- 🔧 Git & GitHub
+Passionate about transforming data into actionable insights, with experience in **SQL Server, Power BI, Python, and R**. Currently focusing on **data engineering and model operationalization**.  
 
 ---
 
-### 📂 O que você vai encontrar aqui
-- Projetos de análise de dados
-- Scripts SQL (procedures, consultas e regras de negócio)
-- Dashboards e análises exploratórias
-- Estudos aplicados em Python e R
+### 🛠️ Technologies & Tools
+- **Databases & SQL:** SQL Server, advanced queries, stored procedures  
+- **Data Analysis & Visualization:** Power BI, Python (pandas, matplotlib, seaborn), R  
+- **Development & Version Control:** Git, GitHub  
+- **Machine Learning:** Data preprocessing, regression, classification, predictive modeling  
 
 ---
 
-### 🔗 Contato
-- LinkedIn: https://www.linkedin.com/in/eduardo-lopes-8930501a8
+### ⭐ Featured Projects
+1. **Abalone Age Prediction** – Predictive model in Python + FastAPI API  
+
+*(More projects in progress and regularly updated)*
+
+---
+
+### 🔗 Contact
+- LinkedIn: [eduardo-lopes](https://www.linkedin.com/in/eduardo-lopes-8930501a8)  
+- GitHub: [Eduu1](https://github.com/Eduu1)  

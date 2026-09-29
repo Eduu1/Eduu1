@@ -1,7 +1,7 @@
 ## Hi, I’m Eduardo Lopes
 
 🎓 **Statistics Student** – UFMT
-💼 **Data Analyst | Business Intelligence | Data Analytics**
+💼 **Data Analyst | Business Intelligence | SQL**
 
 Passionate about transforming data into actionable insights and supporting data-driven decision-making. Experience with **SQL Server, Power BI, Excel, Python, and R**, combining technical skills with a strong understanding of business needs.
 

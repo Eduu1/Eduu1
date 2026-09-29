@@ -1,10 +1,11 @@
 ## Hi, I’m Eduardo Lopes
 
-🎓 **Statistics Graduate** – UFMT  
-💼 Junior Data Analyst | Enthusiast in **Machine Learning & MLOps**  
+🎓 **Statistics Student** – UFMT
+💼 **Data Analyst | Business Intelligence | Data Analytics**
 
+Passionate about transforming data into actionable insights and supporting data-driven decision-making. Experience with **SQL Server, Power BI, Excel, Python, and R**, combining technical skills with a strong understanding of business needs.
 
-Passionate about transforming data into actionable insights, with experience in **SQL Server, Power BI, Python, and R**. Currently focusing on **data engineering and model operationalization**.  
+Currently focused on **data analytics, business intelligence, and statistical modeling**, with an interest in building solutions that bridge **business and data**.
 
 ---
 
